@@ -56,3 +56,15 @@ To drive the car using the trained model, execute the following command in your 
 
 ```bash
 python drive.py model.h5
+```
+
+## About the simulator
+We will use a driving simulator built in Unity, provided for free by Udacity, that can be found here:
+
+https://github.com/udacity/self-driving-car-sim
+
+after downloading run 
+```bash
+./Default\ Linux\ desktop\ Universal.x86_64 
+
+
