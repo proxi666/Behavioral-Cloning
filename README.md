@@ -2,9 +2,6 @@
 
 This project involves training a deep learning model to drive a car in a simulator using behavioral cloning. The model learns from human driving data and predicts steering angles based on the input images.
 
-
-https://github.com/proxi666/Behavioral-Cloning/blob/main/Behavioural%20Cloning.mp4
-
 ## Project Overview
 
 The project consists of two main parts:
